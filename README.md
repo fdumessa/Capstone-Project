@@ -1,5 +1,5 @@
 # Capstone-Project
-Building Permits Issued in Nashville May,2017-May,2020
+Building Permits Issued in Nashville May,2017-May,2020.
 Nashville is one of the fastest growing cities in United States of America.
 what type of permited issued most?
 How much is the construction cost?

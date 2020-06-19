@@ -6,5 +6,5 @@
 - Which area of Nashville(Zip code) is the most hot area for investors?
 - Which year issued permited the most for Hotel? and General office, proffesional?
 - When we compare month to month building permits issued, how is the first five months of 2020 after COVID19 pandemic?
-- I use tableau for visualization after I cleaned,explore, and manuplate the data by using Python and Excel.
+- I use tableau for visualization after I clean,explore,and manuplate the data by using Python and Excel.
 - https://public.tableau.com/profile/fitsum.dumessa#!/vizhome/BuildingPermitsIssuedinNashville2017-2020/BuildingpermitsIssuedinNashville2017-2020
